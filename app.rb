@@ -22,7 +22,7 @@ if not Groonga["Items"]
   end
   items["hello"].title = "Hello, World!"
 end
-  
+
 get '/' do
   Groonga["Items"]["hello"].title
   #'Hello, World!'
