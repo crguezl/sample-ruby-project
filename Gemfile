@@ -6,6 +6,6 @@ gem "rroonga"
 group :development, :test do
   gem 'rspec'
   gem 'rack-test'
-  gem 'coveralls'  
+  gem 'coveralls', require: false
 end
 
