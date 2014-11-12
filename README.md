@@ -1,7 +1,7 @@
 # sample-ruby-project
 
-[![Build Status](https://travis-ci.org/okamuuu/sample-ruby-project.svg?branch=master)](https://travis-ci.org/okamuuu/sample-ruby-project)
-[![Coverage Status](https://coveralls.io/repos/okamuuu/sample-ruby-project/badge.png?branch=master)](https://coveralls.io/r/okamuuu/sample-ruby-project)
+[![Build Status](https://travis-ci.org/crguezl/sinatra-capybara-selenium.svg?branch=master)](https://travis-ci.org/crguezl/sinatra-capybara-selenium)
+[![Coverage Status](https://coveralls.io/repos/crguezl/sample-ruby-project/badge.png?branch=master)](https://coveralls.io/r/crguezl/sample-ruby-project?branch=master)
 
 * [Ruby, Heroku and Groonga tutorial 2014](http://okamuuu.hatenablog.com/entry/2014/08/28/094936)
 * [https://github.com/crguezl/sample-ruby-project](https://github.com/crguezl/sample-ruby-project)
