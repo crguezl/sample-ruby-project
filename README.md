@@ -5,3 +5,5 @@
 
 * [Ruby, Heroku and Groonga tutorial 2014](http://okamuuu.hatenablog.com/entry/2014/08/28/094936)
 * [https://github.com/crguezl/sample-ruby-project](https://github.com/crguezl/sample-ruby-project)
+* [Rroonga](http://www.rubydoc.info/gems/rroonga/4.0.6/frames): Ruby bindings for 
+[Groonga](http://groonga.org/docs/) that provide full text search and column store features.
